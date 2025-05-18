@@ -4,3 +4,6 @@ activation.txt
 
 *.docx
 *.pdf
+
+# has more than 100mb
+creditcard.csv
